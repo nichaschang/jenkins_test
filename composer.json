@@ -2,7 +2,8 @@
     "name": "zhangmaocheng/jenkins_test",
     "autoload": {
         "psr-4": {
-            "Zhangmaocheng\\JenkinsTest\\": "src/"
+            "Zhangmaocheng\\JenkinsTest\\": "src/",
+            "Test": "tests/"
         }
     },
     "authors": [
